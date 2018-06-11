@@ -6,8 +6,6 @@ Big acknoledgment to G. Sterbini for his input.
 This package assumes that you are using also the cl2pd package, available here: 
 https://github.com/sterbini/cl2pd
 
-This package indeed assumes that the raw data has already been downloaded. 
-
 ## Install the package
 You can install the package, for instance on the SWAN terminal (www.swan.cern.ch), using:
 ```
