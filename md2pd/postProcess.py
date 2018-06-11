@@ -10,6 +10,6 @@ def raw2bbbDF(rawInput):
     A df containing the same data, splitted bbb in each column
     '''
     DF = pd.DataFrame()
-    for i in range(len(rawInput)):
+    for i in range(3564):
         DF[i] = rawInput.dropna().apply(lambda x:x[i])
     return DF
