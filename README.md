@@ -21,6 +21,6 @@ pip install --upgrade --user git+https://github.com/apoyet/md2pd.git@fork_name
 ```
 
 ## Example
-A **very preliminary** example is available here: 
+A template for online MD analysis can be found here: 
 
-https://cernbox.cern.ch/index.php/s/SqIdTtad3tMReGm
+https://cernbox.cern.ch/index.php/s/K7JGGnQeOROv9N6
